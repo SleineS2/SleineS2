@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvedora Front-end<br>💻Cursando Ciência da computação<br>🎆Ela/Dela
+🔭 Quality Assurance<br>💻Cursando Ciência da computação<br>🎆Ela/Dela
 
 
 ## 🌐 Socials:
