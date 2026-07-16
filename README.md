@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Me chamo Joana Sleine Quadros, tenho 24 anos e sou natural do Rio grande do sul. Estou no 7º semestre da faculdade e em busca da minha primeira oportunidade na área da tecnologia, como QA que se mostrou a área que tenho mais afinidade e gosto de trabalhar.  
+Olá! Sou a Joana Sleine Quadros, tenho 24 anos e sou natural do Rio Grande do Sul. Estou no 7º semestre da faculdade de Ciência da Computação e em busca da minha primeira oportunidade na área da tecnologia como QA - área pela qual tenho muita afinidade e paixão em trabalhar.  
 🔭 Quality Assurance<br>💻Cursando Ciência da computação<br>🎆Ela/Dela
 
    <a href="https://www.linkedin.com/in/joana-quadros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
